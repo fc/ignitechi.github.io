@@ -2263,3 +2263,7 @@ a:focus,
 .thanks {
     background-color: #555;
 }
+
+.thanks .header_top-bg {
+    padding-top: 0;
+}
