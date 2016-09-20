@@ -1446,6 +1446,11 @@ p,
     -webkit-filter: grayscale(100%);
 }
 
+.sponsor-slider img:hover {
+    filter: none;
+    opacity: 100;
+}
+
 .popup-gallery {
     margin-bottom: 50px;
 }
